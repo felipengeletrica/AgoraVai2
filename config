@@ -1,0 +1,7 @@
+Host github.com
+  Hostname        github.com
+  User            git
+  IdentityFile    ~/.ssh/ChaveAulaFundamentos
+  IdentitiesOnly yes
+  PubkeyAcceptedAlgorithms +ssh-rsa
+  HostkeyAlgorithms +ssh-rsa
